@@ -11,8 +11,7 @@
 **  hashes 
 **  cryptography  ..asym, symm.
 **   DAO
-**   moralis, ipfs ===> new ideas 
-**
+**   infura,hardahat,truffle,moralis, ipfs ====> basic concepts   
 **
 **
 **
