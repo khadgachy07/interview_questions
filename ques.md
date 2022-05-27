@@ -9,8 +9,8 @@
 ** suppose u have 5 ether in your address,then write a smart contract which can
    transfer your certain eth to your next a/c after a ertain timestamp.
 **  hashes 
-**  cryptography 
-**   DAO 
+**  cryptography  ..asym, symm.
+**   DAO
 **
 **
 **
