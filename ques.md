@@ -1,5 +1,5 @@
 
-## a quick look to interview practise 
+## a quick look to interview questions 
 ```bash 
 Collection taken from Blockchain interns (from codeeater)
 ** data structures concepts
