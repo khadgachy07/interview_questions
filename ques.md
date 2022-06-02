@@ -231,13 +231,17 @@ pseudonymity : for long term relation
 ==>> joining conference ...
 ==>> reading blogs/articles of coinmarketcap, tradingview,coingecko and marketcal. 
 ```
-## 
+## nonce ? 
 ```bash
 
 ```
-## 
+## process of blockchain mining ? 
 ```bash
-
+* transaction....to mempool 
+* solve mathematical problem 
+* miners solved the problem first 
+* miners verify the validity 
+* block is added 
 ```
 ## 
 ```bash
