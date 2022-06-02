@@ -16,8 +16,8 @@ Collection taken from Blockchain interns (from codeeater)
 ** moralis, ipfs ====> basic concepts 
 ** Ipfs working 
 ** Decentralized vs distributed 
-**
-**
+** secret sharing/spiltting 
+** 
 **
 **
 **
@@ -25,7 +25,8 @@ Collection taken from Blockchain interns (from codeeater)
 **   
  
 ```
-## exploration of new interview questions 🦖
+## exploration of new interview questions 🔐🔐🔐🔐
+
 
 ## blockchain ?
 ```bash 
@@ -181,7 +182,7 @@ fork results splitting ethereum into  Ethereum and Ethereum Classic...
 ```
 ## secret spiltting/sharing
 ```bash
-
+message/data will be splitted and transferred to trusted parties/nodes....and later on , if we need to retrieve data , we need to collect data from all nodes and it need to be integrated......splitted data is of no use until integration. 
 ```
 ## off-chain transaction
 ```bash
@@ -189,7 +190,8 @@ fork results splitting ethereum into  Ethereum and Ethereum Classic...
 ```
 ## anonymity and pseudonymity 
 ```bash
-
+example od anonymity : Zcash (no trackdown of transaction,enhanced privacy for its users)
+pseudonymity : for long term relation 
 ```
 ## how does peer discovery work in p2p network ? 
 ```bash
@@ -225,8 +227,9 @@ fork results splitting ethereum into  Ethereum and Ethereum Classic...
 ```
 ## how do you stay upto date with the new and upcoming concept of blockchain ? 
 ```bash
-==>> we can check new/trending coins in coinmarketcap, and then we can do research what they are solving/doing in this blockchain field ? 
-==>> joining conference ...reading blogs/articles 
+==>> we can check new/trending coins in coinmarketcap & marketcal , and then we can do research what they are solving/doing in this blockchain field and so on...
+==>> joining conference ...
+==>> reading blogs/articles of coinmarketcap, tradingview,coingecko and marketcal. 
 ```
 ## 
 ```bash
