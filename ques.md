@@ -50,27 +50,32 @@ no
 Blockchain : decentralized....can perform only insert operation....work on peer to peer network 
 traditional database : centralized....can perform CRUD operation....master-slave concept 
 ```
-## 
+## key features of blockchain 
 ```bash
-
+* decentralized
+* distributed 
+* immutability 
+* safety
+* concept of mining
 ```
-##
+## encryption ? and its role in blockchain 
 ```bash 
-
+by cryptographic algorithm, concept of public and private key....so to provide authenticity. 
 ```
-## 
+## what is block ? 
 ```bash
-
+blockcahin consists of a list of records/transaction...and that records are stored in blocks... 
 ```
-##
+## what are blocks identifiers ?
 ```bash 
-
+* block header hash(which is generated from merkle tree) 
+* block height (no of blocks in blockchain )
+```
+## possible to modify data in blockchain ?
+```bash
+impossible to modify data in that contract....
 ```
 ## 
-```bash
-
-```
-##
 ```bash 
 
 ```
