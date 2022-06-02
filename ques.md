@@ -22,14 +22,92 @@ Collection taken from Blockchain interns (from codeeater)
 **
 **
 **
-**
-**
-**
-**
-**
-**
-## exploration of new interview questions
-
-   
+**   
  
 ```
+## exploration of new interview questions 🦖
+
+## blockchain ?
+```bash 
+ledger that is distributed,immutable and decentralized where all transaction are protected by cryptographic algorithm.
+```
+## principle on which blockchain tech is based on ? 
+```bash
+based on distributed ledger technology which aims to provide a single source of truth being distributed across network.
+```
+## types of blockchain network 
+```bash 
+* public : bitcoin,ethereum
+** private : Ripple (XRP), ,multichain,locks tax,
+** consortium : Hyperledger
+```
+## is there any restriction in types of records in blockchain ?
+```bash
+no
+```
+## Blockchain vs traditional database 
+```bash 
+Blockchain : decentralized....can perform only insert operation....work on peer to peer network 
+traditional database : centralized....can perform CRUD operation....master-slave concept 
+```
+## 
+```bash
+
+```
+##
+```bash 
+
+```
+## 
+```bash
+
+```
+##
+```bash 
+
+```
+## 
+```bash
+
+```
+##
+```bash 
+
+```
+## 
+```bash
+
+```
+##
+```bash 
+
+```
+## 
+```bash
+
+```
+##
+```bash 
+
+```
+## 
+```bash
+
+```
+##
+```bash 
+
+```
+## 
+```bash
+
+```
+##
+```bash 
+
+```
+## 
+```bash
+
+```
+
