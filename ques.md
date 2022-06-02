@@ -175,57 +175,58 @@ types : hard fork (where old rule is invalid now )
 fork results splitting ethereum into  Ethereum and Ethereum Classic...
           and bitcoin to bitcoin and bitcoin cash..
 ```
-## 
+## blind signature
 ```bash
 
 ```
-## 
+## secret spiltting/sharing
 ```bash
 
 ```
-## 
+## off-chain transaction
 ```bash
 
 ```
-## 
+## anonymity and pseudonymity 
 ```bash
 
 ```
-## 
+## how does peer discovery work in p2p network ? 
 ```bash
 
 ```
-## 
+## what is 51% attack ? 
 ```bash
 
 ```
-## 
+## durability and robustness ? 
 ```bash
 
 ```
-## 
+## transparent and incorruptable ? 
 ```bash
 
 ```
-## 
+## how does bitcoin use blockchain ? 
 ```bash
 
 ```
-## 
+## how does NFTs use blockchain ?  
 ```bash
 
 ```
-## 
+## business benefits of blockchain 
 ```bash
 
 ```
-## 
+## 3 trilemma of blockchain ? 
 ```bash
-
+>>>> decentralization, security and scalability  
 ```
-## 
+## how do you stay upto date with the new and upcoming concept of blockchain ? 
 ```bash
-
+==>> we can check new/trending coins in coinmarketcap, and then we can do research what they are solving/doing in this blockchain field ? 
+==>> joining conference ...reading blogs/articles 
 ```
 ## 
 ```bash
