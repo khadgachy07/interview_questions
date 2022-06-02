@@ -8,7 +8,7 @@ Collection taken from Blockchain interns (from codeeater)
 ** btc,eth backgrounds 
 ** defi concepts,implementaions
 ** suppose u have 5 ether in your address,then write a smart contract which can
-     transfer your certain eth to your next a/c after a ertain timestamp.
+     transfer your certain eth to your next a/c after certain timestamp.
 **  hashes 
 ** Cryptography  ..asym, symm.
 **  DAO
@@ -148,5 +148,127 @@ pos : stakeholders validate new blocks by utilizing the share of coin...consume 
 no....
 The Double Spend Problem describes the difficulty of ensuring digital money is not easily duplicated.
 the blockchain prevents double-spending by timestamping groups of transactions and then broadcasting them to all of the nodes in the bitcoin network
+```
+## examples of blockchain application developing platforms
+```bash
+====>>> ethereum, iota, cardano, hyperledger fabric
+```
+## 
+```bash
+* there is no concept of mining in private blockchains. coz nodes are pre-defined initially  
+* blockchain saves time and cost too. coz if compare visa speed with solana blockchain ..then solana's speed is on moon.
+```
+## widely used cryptographic algorithm ?
+```bash
+* RSA
+* AES
+* Blowfish 
+* Twofish
+```
+## concept of forking and its types 
+```bash
+** what happens when a blockchain diverges into two potential paths forward.
+** a situation that occurs when two or more blocks have the same block height.
+types : hard fork (where old rule is invalid now )
+        soft fork (backward compatible )
+
+fork results splitting ethereum into  Ethereum and Ethereum Classic...
+          and bitcoin to bitcoin and bitcoin cash..
+```
+## 
+```bash
+
+```
+## 
+```bash
+
+```
+## 
+```bash
+
+```
+## 
+```bash
+
+```
+## 
+```bash
+
+```
+## 
+```bash
+
+```
+## 
+```bash
+
+```
+## 
+```bash
+
+```
+## 
+```bash
+
+```
+## 
+```bash
+
+```
+## 
+```bash
+
+```
+## 
+```bash
+
+```
+## 
+```bash
+
+```
+## 
+```bash
+
+```
+## 
+```bash
+
+```
+## 
+```bash
+
+```
+## 
+```bash
+
+```
+## 
+```bash
+
+```
+## 
+```bash
+
+```
+## 
+```bash
+
+```
+## 
+```bash
+
+```
+## 
+```bash
+
+```
+## 
+```bash
+
+```
+## 
+```bash
+
 ```
 
