@@ -47,8 +47,8 @@ no
 ```
 ## Blockchain vs traditional database 
 ```bash 
-Blockchain : decentralized....can perform only insert operation....work on peer to peer network 
-traditional database : centralized....can perform CRUD operation....master-slave concept 
+Blockchain : decentralized....can perform only insert operation....work on peer to peer network...no single point of failure...
+traditional database : centralized....can perform CRUD operation....master-slave concept...single point failure exists....
 ```
 ## key features of blockchain 
 ```bash
@@ -60,7 +60,7 @@ traditional database : centralized....can perform CRUD operation....master-slave
 ```
 ## encryption ? and its role in blockchain 
 ```bash 
-by cryptographic algorithm, concept of public and private key....so to provide authenticity. 
+keeping the data safe...by cryptographic algorithm, concept of public and private key....so to provide authenticity. 
 ```
 ## what is block ? 
 ```bash
