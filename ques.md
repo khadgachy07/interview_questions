@@ -245,6 +245,45 @@ pseudonymity : for long term relation
 ```
 ## Quick look questions a to z
 ```bash
+ 
+How do we do multiplication in Bignumber's?
+using `.mul()` ✅ 
+using `*`
+using `x`
+Other:
+ 
+What does ABI contain?
+Its is an arbitrary array, it can contain anything
+Contains rules and metadata about functions present in the contract ✅ 
+Contains only rules about functions in the contract
+Contains only metadata about functions present in the contract
+ 
+What is a Signer?
+Ethereum node connection which helps you to read data from state
+Ethereum node connection which helps you to write data the state
+Ethereum node connection which can write and read ✅ 
+Its not an Ethereum node connection
+ 
+If Alice wants a contract to take some ERC20 tokens from her what would she have to do?
+Call `transferFrom` function
+Call `approve` function
+Call `pay` function
+Call `approve`, and then some function on the contract which calls `transferFrom` internally ✅ 
+ 
+ 
+What is a provider?
+Ethereum node connection which helps you to read data from state ✅ 
+Ethereum node connection which helps you to write data the state
+Ethereum node connection which can write and read
+Its not an Ethereum node connection
+ 
+When does the code inside `useEffect` get called, if being used with dependent variables?
+needs to be explicitly called
+runs at a certain time interval
+runs on every render of the page
+runs every time a dependent state variable changes ✅ 
+
+
 A transaction has "finality" on Ethereum when it's part of a block that can't change.
 True ✅ 
 False 
