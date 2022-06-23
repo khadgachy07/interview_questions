@@ -243,40 +243,251 @@ pseudonymity : for long term relation
 * miners verify the validity 
 * block is added 
 ```
-## 
+## quick look que
 ```bash
+Who can modify the existing state of a blockchain?
+Miners
+Satoshi Nakamoto
+Nobody ✓
 
-```
-## 
-```bash
+Where are your cryptocurrency assets stored?
+In your digital wallet
+In 1000's of blockchain nodes ✓
+In your bank account
 
-```
-## 
-```bash
+What is a node in a blockchain network?
+A programming language
+A cryptocurrency token
+A computer running the blockchain software ✓
 
-```
-## 
-```bash
+Blockchains can be used for?
+Storing and transferring assets
+Participating in decentralized governance
+Tracking food items across the supply chain
+All of the above ✓
 
-```
-## 
-```bash
+What is a genesis block?
+The initial state of a blockchain ✓
+The Book of Genesis on the blockchain
+The first transaction on the blockchain
 
-```
-## 
-```bash
+What is a miner?
+A node responsible for verifying and auditing transactions
+Someone mining for gold underground
+A node responsible for proposing new blocks ✓
 
-```
-## 
-```bash
+What is the term for when a blockchain splits?
+Fork ✓
+Spoon
+Cut
 
-```
-## 
-```bash
+Why do miners do hard work to secure the network?
+For block rewards ✓
+For goodwill
+For fame
 
-```
-## 
-```bash
+What does P2P mean?
+Peer to Peer ✓
+Product to Product
+Password to Private key
 
+Who created Bitcoin?
+Satoshi Nakamoto ✓
+Craig Wright
+John McAfee
+
+What is a blockchain?
+A cryptocurrency
+A distributed database running on a peer to peer network of nodes ✓
+A database run by Satoshi Nakamoto
+
+Who's "Block size" is bigger?
+Bitcoin ✓
+Ethereum
+
+If you write a smart contract on the Ethereum mainnet... it will be replicated and processed on all the computers on the Ethereum main network.
+True ✓
+False
+
+Who's "Block time" is shorter?
+Bitcoin
+Ethereum ✓
+
+You can create your own ERC-20 token without the permission of Ethereum
+True ✓
+False
+
+In the Serenity/ETH 2.0 patch... Ethereum will move to proof of stake
+True ✓
+False
+
+What runs Smart contracts?
+Ethereum's servers
+The Ethereum Virtual Machine (EVM) ✓
+Jeff Bezos
+
+Ethereum currently runs on...
+Proof of Work ✓
+Proof of Stake
+
+What is the native currency of Ethereum?
+ETH/Ether ✓
+AAVE
+Bitcoin
+Matic
+
+Which statement best describes Proof of Work?
+Miners compete to solve "computational puzzles". The winner of this competition gets to add a block to the blockchain. ✓
+Miners with the most currency are allowed to mine and add blocks to the blockchain
+Miners work to compute an EVM routing problem. The first miner to solve the problem gets to add blocks to the Blockchain
+
+If uncles are referenced as uncles by a later block
+The miner of the uncle gets ether ✓
+The miner of the uncle doesn't get anything (like with bitcoin)
+
+ 
+Which one of the following is an Ethereum address?
+2
+bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
+0x71C7656EC7ab88b098defB751B7401B5f6d8976F ✓
+ 
+What should you do with your private key?
+You should share your private key with everyone
+You should share your private key with only your friends and family
+You should never share your private key ✓
+
+What is an example of seed phrase
+1234
+abcd
+jealous expect hundred young unlock disagree major siren surge acoustic machine catalog ✓
+ 
+What is a crypto wallet?
+Crypto wallet manages your seed phrases
+Crypto wallet manages the private keys associated with your addresses ✓
+Crypto wallet manages your crypto balance
+ 
+What is MetaMask?
+An Ethereum crypto wallet ✓
+ A Solana crypto wallet
+A Bitcoin crypto wallet
+ 
+What is an address?
+An address represents a crypto currency
+An address represents your account on the blockchain ✓
+ an address represents your crypto balance
+
+What are private keys?
+Private key is like a password for your address that contains a bunch of letters and numbers ✓
+ Private key is another name for an address
+Private key refers to a crypto wallet
+ 
+What is a seed phrase?
+Seed phrase is like a master password for your crypto wallet ✓
+Seed phrase is like a password for your address
+Seed phrase is like a password for private key
+
+ 
+Which of the following environments is NOT supported by Remix?
+Javascript VM
+Rinkeby Testnet
+Ethereum Mainnet
+Solana ✓
+ 
+ 
+Remix allows you to interact with contracts you did not deploy
+True ✓
+False
+ 
+Remix allows you to write :
+Solidity contracts
+Solidity tests
+Javascript scripts
+All of the above ✓
+ 
+ 
+What does IDE stand for?
+Integrated Development Environment ✓
+Intelligent Discord Environment
+Intentional Developer Experience
+ 
+Which of the following features does Remix NOT support?
+Interacting with deployed smart contracts
+Importing code from Github repositories
+Providing free testnet ether ✓
+ 
+ 
+You can write code on Remix in languages other than Solidity?
+True ✓
+ False
+ 
+Which one of the following is NOT a panel in Remix?
+File Explorer
+Solidity Compiler
+Version control history ✓
+
+ 
+Which is the correct function definition  for returning an unsigned integer array from a function ?
+
+function getArr(uint[] memory _arr) public view returns (uint[] memory) ✓
+ function getArr(uint[] memory _arr) public view returns (uint[])
+function getArr(uint[] memory _arr) public view returns ([]uint)
+ 
+What is the range of uint8?
+2 ** 256 - 1
+0 to 2 ** 16 - 1
+0 to 2 ** 8 - 1 ✓
+ 
+On which virtual machine does Solidity run?
+JVM
+EVM ✓
+KVM
+ 
+What is the default value of an address variable?
+0x0936f87C98E8009f8C4fff9E3994b295761C30ad
+0x0000000000000000000000000000000000000000 ✓
+0xD9cd57AaECf5813FC41E26CFd55f67Fd72112b75
+
+ 
+How to get the length of an array in Solidity?
+len(arr)
+arr.length() 
+arr.length ✓
+
+How to add an element to an array in Solidity?
+arr.push(i); ✓
+arr.add(i);
+arr.back(i)
+ 
+What is the significance of the view keyword in the function definition ?
+It means that the function can change the state of contract
+Function cant change the state of the contract ✓
+It doesnt do anything
+ 
+What is msg.sender?
+address of the caller ✓
+a function name
+address of the smart contract
+ 
+What is the significance of public keyword in the function definition ?
+Function can only be called internally by the other smart contract functions
+Function can only be called externally
+It can be called from within the contract and also externally. ✓
+ 
+What does uint stand for?
+Signed integer
+Unsigned integer ✓
+Boolean
+ 
+What are state variables in Solidity?
+They are declared inside a function and are not stored on blockchain
+They are declared outside a function and stored on the blockchain ✓
+They provide information about the blockchain
+
+ 
+What is the default value of an bool variable?
+false ✓
+true
 ```
+
+
 
