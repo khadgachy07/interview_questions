@@ -243,8 +243,98 @@ pseudonymity : for long term relation
 * miners verify the validity 
 * block is added 
 ```
-## quick look que
+## Quick look questions a to z
 ```bash
+A transaction that costs 100 Gwei today can cost 200 Gwei tomorrow
+True ✅
+False
+ 
+The value of gas price for a transaction was fixed before the London-upgrade
+True
+False ✅
+ 
+ 
+You can change/choose the max gas fee you want to pay for a transaction using a wallet like Metamask
+True ✅
+False
+ 
+What is the max block size limit possible on the Ethereum network today?
+10M Gas
+30M Gas ✅
+15M Gas
+ 
+Which of the fees is the minimum needed to send a transaction to the network, after the London fork?
+Base fee ✅
+Priority fee
+Gas price
+ 
+The concept of gas fees is bad for the network
+True
+False ✅
+ 
+ 
+The cheapest transaction on the Ethereum network is the transfer of $ETH
+True ✅
+False
+ 
+The London Fork took place in Ethereum's London servers
+True
+False ✅
+  
+Which version of the Ethereum network provided better gas estimations for the network?
+Pre-London Fork
+Post-London Fork ✅
+ 
+If Alice wants to send Bob 1 ETH, assuming the gas price is 100 Gwei, how much ETH does Alice pay in transaction fees (assume pre-London ugprade)?
+0.0021 ✅
+2100000 ETH
+0.021 ETH
+
+Mining pools help individual miners to combine their computational effort to increase the chances of mining blocks
+True ✅
+False
+ 
+It is very profitable to be a miner, for anybody
+True
+False ✅
+ 
+ 
+What consensus mechanism does Ethereum use currently?
+PoW ✅
+PoS
+PoR
+ 
+Mempool is the list of transactions that have been mined
+True
+False ✅
+ 
+ 
+Which is a more profitable method of mining?
+Using CPUs
+Using GPUs ✅
+Using APUs
+ 
+Which is the chip that was specifically designed to mine Ethereum?
+APUs
+ASICs ✅
+GPUs
+ 
+Miners exist in the network so as to ensure that users can be controlled
+True
+False ✅
+ 
+The mining reward for Ethereum is roughly:
+2ETH/block ✅
+5ETH/block
+1ETH/block
+ 
+Miners are paid to mine the blocks
+True ✅
+False
+ 
+Ethereum will shift to PoR after 2022 
+True
+False ✅
 Who can modify the existing state of a blockchain?
 Miners
 Satoshi Nakamoto
