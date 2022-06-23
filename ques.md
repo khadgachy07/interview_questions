@@ -245,6 +245,54 @@ pseudonymity : for long term relation
 ```
 ## Quick look questions a to z
 ```bash
+A transaction has "finality" on Ethereum when it's part of a block that can't change.
+True ✅ 
+False 
+ 
+What is the technique used by miners to solve the mathematical problem to prove their work to the network?
+Bruteforce ✅  
+Penetration Attack
+Sybil Attack
+ 
+Since blockchains like Ethereum are essentially distributed databases, consensus on the current state need to be met.
+True ✅  
+False
+ 
+Consensus protocols are impossible to hack/tamper with.
+True
+False ✅ 
+ 
+ 
+What is the recommended time, on Ethereum, after which we can almost guarantee a block is not going to be deleted?
+approx 15 seconds
+approx 1 minute ✅  
+approx 2 minutes
+ 
+What is it called when one user tries to pretend to be many different users?
+Sybil Attack ✅  
+Denver Pretention
+Charlie Attack 
+ 
+What is it called when two different blocks are produced and included in parallel?
+Finality
+Fork ✅  
+Proof of Work
+ 
+Which of these is true about Proof of Work? Select all that apply.
+Miners are responsible for ensuring no user tries to become a miner
+Miners are responsible for producing new blocks ✅  
+Miners are responsible for ensuring the network isn't tampered with ✅  
+ 
+ 
+What are uncle blocks?
+Blocks mined after the child block
+Blocks that end up getting deleted ✅  
+Blocks are that are included after a fork
+ 
+What rule does Ethereum use to enforce that only one state of chain carries, even after a fork?
+Sybil Chain
+Longest Chain ✅  
+Denver Chain
 A transaction that costs 100 Gwei today can cost 200 Gwei tomorrow
 True ✅
 False
@@ -335,6 +383,55 @@ False
 Ethereum will shift to PoR after 2022 
 True
 False ✅
+
+Which of the following are essential building blocks for the EVM : 
+Stack ✅ 
+Memory
+Program Counter
+Arrays
+ 
+What is the data structure which is used to store the Ethereum state called?
+Merkle Patricia Trie ✅ 
+Graphs
+Heaps
+Arrays
+ 
+A blockchain fundamentally works on the concepts of cryptography
+True ✅ 
+False
+ 
+EVM has OPCODES, which represent hardware-level instructions for the virtual machine
+True ✅ 
+False
+ 
+The EVM supports infinite recursion
+True 
+False ✅ 
+  
+Ethereum is a distributed state machine : 
+True ✅ 
+False
+ 
+Ethereum Virtual Machine is a computer in London that can be accessed remotely
+True
+False ✅ 
+  
+There is only one Ethereum Client implementation available - in Solidity
+True
+False ✅ 
+  
+Smart contracts on Ethereum can only be written in Solidity
+True
+False ✅ 
+ 
+The EVM runs on specialized hardware
+True
+False ✅ 
+ 
+EVM defines the rules of computation for states from block to block.
+True ✅ 
+False
+
 Who can modify the existing state of a blockchain?
 Miners
 Satoshi Nakamoto
