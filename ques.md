@@ -709,10 +709,127 @@ They are declared inside a function and are not stored on blockchain
 They are declared outside a function and stored on the blockchain ✓
 They provide information about the blockchain
 
- 
+
 What is the default value of an bool variable?
 false ✓
 true
+```
+## short rev for react,next
+```bash 
+## quick review ques :
+```bash 
+
+🤔 Mappings act like which data structure?
+Arrays
+Trees
+Graphs
+Hashmaps ✔️
+
+🤔 What are enums used for?
+To restrict a variable to only have one of a few predefined values. ✔️
+To restrict a function to only have one of a few predefined values
+To restrict an interface to only have one of a few predefined values
+
+🤔 What are structs used for?
+Creating custom data types ✔️
+Restricting variables to have only a few predefined values
+Storing key-value pairs
+Logging to the blockchain
+
+🤔 Pure functions are used to write data to the blockchain
+True
+False ✔️
+
+🤔 View functions do not change any state values
+True ✔️
+False
+
+🤔 What are modifiers NOT used for?
+Restricting access to certain functions
+Validating input parameters
+Replacement for functions ✔️
+Protecting against certain types of attacks
+
+🤔 What are events used for?
+Logging to the blockchain ✔️
+Creating custom data types
+Creating functions which run after a certain time interval
+
+🤔 Is constructor optional?
+True ✔️
+False
+
+🤔 contract B is A { }
+A is inheriting B
+B is inheriting A ✔️
+A and B are the same contracts
+
+🤔 You must have a smart contract in-order to send ETH to another ETH address
+True
+False ✔️
+
+🤔 If you want your contract to receive ETH transfers directly, you must use either "receive() external payable" or "fallback() external payable"
+True ✔️
+False
+
+🤔 Libraries can contain state variables
+True
+False ✔️
+
+```
+## react,next quick rev 
+```bash
+🤔 What is the power of JSX?
+It is an extension of Javascript that adds static typing
+It is an extension of Javascript that allows you to return HTML elements from JS functions ✔️
+It is a web framework that helps you reason about the view of your app
+
+🤔 What is composition?
+It is the combination of multiple components to create a single hierarchial HTML document ✔️
+It is the dependency makeup of the React library
+It is the official React song
+
+🤔 You can pass arbitrary data to components through props?
+Yes ✔️
+No
+
+🤔 How do React components allow you to make your code easier to understand?
+By using Github Copilot to automatically generate code for you
+By enabling reusability of components through data passing ✔️
+By using a simpler programming language
+
+🤔 Why are state variables (useState) used in React?
+They are used to maintain values that re-render the HTML whenever the value changes ✔️
+They are just syntactical sugar and serve no real purpose 
+They are the only way to define variables in React components
+
+🤔 useEffect hook can only be run when the page first loads?
+True
+False ✔️
+
+🤔 useEffect can only be dependent on one value?
+True
+False ✔️
+
+🤔 What is a difference between useRef and useState?
+Updates to reference variables are done synchronously, whereas updates to state variables are done asynchronously ✔️
+There is no difference
+useRef is only used for referencing DOM elements whereas useState is used for maintaining variable values
+
+🤔 What is the main difference between React and Next.js when it comes to routing between webpages?
+React does file based routing automatically, whereas Next requires a routing library
+They're the exact same
+React requires a routing library, whereas Next does file based routing automatically ✔️
+
+🤔 How do you write REST API endpoints in Next.js applications?
+By creating files within the pages/ subdirectory
+By creating files within the pages/api/ subdirectory ✔️
+By creating files within the api/ subdirectory
+
+🤔 React components must begin with an uppercase letter when being used in JSX?
+True ✔️
+False
+
 ```
 
 
