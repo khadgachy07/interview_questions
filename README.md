@@ -829,6 +829,96 @@ By creating files within the api/ subdirectory
 🤔 React components must begin with an uppercase letter when being used in JSX?
 True ✔️
 False
+```
+-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
+## Solidity 
+```bash 
+* Yes, Smartcontract can interact with other smart contracts too...
+
+* can a solidity smart contract call an api on the web ? 
+==> No, it can only execute its own code or call other smart contract.
+
+* solidity smart contract cannnot store a lot of data (more gas fee needed)
+
+* other language than solidity : vpyer,LLL
+
+* solidity is statistically typed language 
+
+* a single solidity fle can have several smart contract : using contract keyword 
+* state : store data in blockchain 
+  local : leaves after execution of the program.
+* default visibility of the staet variable : private 
+
+* are private variable really private ? 
+==>> no, they are only private to EVM...data of smart contract are stored in blockchain --> which is public 
+
+* How to deal with private data then ? 
+-->> Don't store data in blockchain 
+-->> use in the form of hashessssssssssssssssss
+
+* most used data types : string, address, uint
+* container types in solidity : mapping, array 
+
+* syntax of array : uint []a ....
+* syntax of mapping : mapping (address =>bool) a ;
+
+* add data to array : push method 
+* add data to mapping : a[_address]=....
+
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ```
 
