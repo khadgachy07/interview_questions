@@ -859,7 +859,7 @@ False
 
 * How to deal with private data then ? 
 -->> Don't store data in blockchain 
--->> use in the form of hashessssssssssssssssss
+-->> use data in the form of hash
 
 * most used data types : string, address, uint
 * container types in solidity : mapping, array 
@@ -870,47 +870,34 @@ False
 * add data to array : push method 
 * add data to mapping : a[_address]=....
 
-* 
+* uint8 = 2^8-1
+* 4 function visibilities : 
+--> private : only by inside 
+--> internal : only by inside or with the inherited one..
+-->  external : outside the function 
+-->> public : by inside or outside 
 
+* 2 artifacts produced by solidity conpiler when compiling a smart contract 
+==>> abi and bytecode 
 
+* Evm uderstand solidity ?? 
+--> no, Evm only understand bytecode produced by solidity...evm bytecode contains many opcodes
 
+* 2 APIs used to interact with smart contract : 1.eth_sendtransaction 2.eth_call
 
+* gas concepts ......eth cost= gas price x gas 
 
+* smart contract frameworks : truffle , Openzeppelin 
 
+* to throw an error by conditionals with an error message : we have to use require keyword 
 
+* which js ethereum client can be used to deploy solidity on local blockchain : Ganache 
 
+* eth wallets : metamask , myetherwallet, ledger, Trezor...
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* some Networks : 
+1. Mainnet
+2. testnet : ropsten, rinkeby , kovan , mumbai testnet , goerli .....
 
 
 
